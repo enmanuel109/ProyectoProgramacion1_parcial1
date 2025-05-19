@@ -6,7 +6,7 @@ package proyecto1_parcial;
 
 import java.util.Scanner;
 
-public class Cantarero_Salvador_ProyectoTienda {
+public class Cantarero_Salvador_ProyectoTienda.java.java{
 
     public static void main(String[] args) {
         Scanner lea = new Scanner(System.in);
